@@ -11,7 +11,7 @@ Our work focuses on areas where traditional testing tools fall short — statefu
 | Project | What It Does |
 |---|---|
 | [WSHawk](https://github.com/regaan/wshawk) | WebSocket and HTTP security testing platform with 22 integrated pentest tools, project-backed evidence, identity-aware replay, and cross-protocol attack workflows. |
-| [ZARA](https://github.com/regaan/Zara) | Cross-platform reverse engineering framework for binary analysis, disassembly, decompilation, debugging, and security research. |
+| [Rothalyx](https://github.com/regaan/Rothalyx) | Cross-platform reverse engineering framework for binary analysis, disassembly, decompilation, debugging, and security research. |
 | [Basilisk](https://github.com/regaan/basilisk-ai) | AI red teaming framework using evolutionary computation for systematic security evaluation of large language models. |
 | [XYSTRON](https://github.com/regaan/xystron) | Autonomous offensive security platform with AI-driven tool orchestration and approval-gated execution. |
 
